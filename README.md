@@ -2,7 +2,7 @@
 
 This is a simple example of how to use styled components in React.
 
-(Check the deployed app on Vercel)[https://react-styled-components-mu.vercel.app/]
+[Check this app deployed Vercel](https://react-styled-components-mu.vercel.app/)
 
 ## RUN APP
 
